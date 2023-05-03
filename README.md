@@ -1,14 +1,14 @@
-Smart-Watch-Prices-Prediction
+# Smart-Watch-Prices-Prediction
 
 
 
 ![dataset-cover](https://user-images.githubusercontent.com/84589660/235905942-4fc3c4fb-e498-4b7e-a5b1-1dbd80bcffeb.jpg)
 
-About Dataset
+# About Dataset
 
 The Smartwatch Price Dataset contains information about the features and prices of popular smartwatch models from various brands. The dataset includes columns such as Brand, Model, Operating System, Connectivity, Price (USD), Display Type, Display Size (inches), Resolution, Water Resistance (meters), Battery Life (days), Heart Rate Monitor, GPS, and NFC.
 
-Columns
+# Columns
 
 Brand: the manufacturer of the smartwatch.
 
